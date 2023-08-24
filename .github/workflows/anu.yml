@@ -1,4 +1,4 @@
-ame: Static Analysis Security Testing
+name: Static Analysis Security Testing
 on: 
   push:
     branches:
